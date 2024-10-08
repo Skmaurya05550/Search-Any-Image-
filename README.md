@@ -1,5 +1,6 @@
-# Image Search Application
-
+## Image Search Application
+   (https://ibb.co/XYZtsMB)
+   
 ## Overview
 The **Image Search Application** is a web app that allows users to search for images using the Unsplash API. Users can input a search term and view a gallery of related images with clickable links for more details. It also features a custom section showcasing pre-loaded images.
 
