@@ -1,12 +1,5 @@
-
 window.onload = function(){
-
-
-
-
 const accessKey = "eVYcbFYWh1NTyxqJxKHItgzczqr3yatJhJDz3LVYMB4";
-
-
 
 const formEl = document.querySelector("form");
 
