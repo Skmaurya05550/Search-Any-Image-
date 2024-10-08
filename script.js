@@ -2,7 +2,6 @@ window.onload = function(){
 const accessKey = "eVYcbFYWh1NTyxqJxKHItgzczqr3yatJhJDz3LVYMB4";
 
 const formEl = document.querySelector("form");
-
 const searchInputEl = document.getElementById("search-input");
 
 const searchResultsEl = document.querySelector(".search-results");
